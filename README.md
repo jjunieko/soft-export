@@ -1,4 +1,4 @@
-# Project Name
+# Project Test soft export
 
 Description of your project.
 
@@ -11,11 +11,15 @@ Before running the project, make sure you have the following installed:
 - Node.js
 - PostgreSQL
 
+### login simples
+    - user: joao
+    - pass: mercado
+
 ## Backend Setup
 
 1. Clone the repository: 
 ```
-git clone https://github.com/your-repo.git
+git clone https://github.com/jjunieko/soft-export
 ```
 
 2. Navigate to the backend directory: cd backend
