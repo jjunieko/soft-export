@@ -15,7 +15,7 @@ Before running the project, make sure you have the following installed:
     - user: joao
     - pass: mercado
 
-## Backend Setup
+## Backend  and Frontend Setup
 
 1. Clone the repository: 
 ```
